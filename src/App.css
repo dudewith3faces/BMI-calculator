@@ -1,0 +1,27 @@
+body {
+  background: #529de1;
+}
+
+.App {
+  width: 500px;
+  margin: 10px auto;
+  padding: 20px;
+  background: #f4f4f4;
+  border: #cccccc solid 1px;
+}
+
+.output h3 {
+  border: #cccccc 1px solid;
+  padding: 20px;
+  font-size: 40px;
+}
+
+.output h3 a {
+  font-size: 18px;
+  color: #cccccc;
+  text-decoration: non;
+}
+
+.danger {
+  color: #af1818;
+}
